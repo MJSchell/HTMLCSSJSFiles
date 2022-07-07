@@ -1,0 +1,28 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+#holder{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap ;
+}
+
+.tocontain{
+  flex: auto;
+  margin: 0.2%;
+  color: black;
+}
+#text{
+  letter-spacing: 2px;
+  line-height: 30px;
+  text-align: center;
+  font-size: 120%;
+  margin: 2.5%;
+}
+#button{
+  text-align: center;
+  align-content: center;
+  margin-left: 50%;
+}

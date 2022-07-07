@@ -1,0 +1,17 @@
+ul {
+    text-align: center;
+}
+
+body {
+    font-family: 'Fascinate', cursive;
+    text-align: center;
+    background: url("https://static.vecteezy.com/system/resources/previews/001/225/154/non_2x/black-low-poly-geometric-background-vector.jpg");
+        color: white;
+}
+
+.question {
+    color: #fcb603;
+}
+.name{
+    color:#41bf8f;
+}

@@ -1,0 +1,35 @@
+body {
+    background: black;
+    color: white;
+    margin: 0;
+}
+
+#holder {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+}
+
+p {
+    font-size: 200%;
+    font-family: sans-sherrif;
+    text-align: center;
+}
+
+.buttons {
+    margin-left: 30%;
+    border: solid 2px #6b6e6c;
+    padding: 1%;
+    background: transparent;
+    color: white;
+    font-size: 150%;
+}
+
+#text {
+    text-align: center;
+}
+
+.buttons:hover {
+    background: #6b6e6c;
+    color: black;
+}
